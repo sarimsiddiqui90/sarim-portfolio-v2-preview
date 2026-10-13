@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace with the final live domain when it changes
+Sitemap: https://sarimsiddiqui90.github.io/sarimsidiquiportfolio/sitemap.xml
